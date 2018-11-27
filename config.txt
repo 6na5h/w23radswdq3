@@ -1,0 +1,6 @@
+﻿token=NTE2OTU4OTM2OTI3MTc0NjU2.Dt7Pnw._uHjrJfduqspo1Mk0FxZm87KWXM
+owner=435239093182398480
+prefix= 3
+game= 3play
+stayinchannel=true
+songinstatus=true 
